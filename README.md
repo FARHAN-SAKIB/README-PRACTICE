@@ -53,3 +53,4 @@ https://github.com/FARHAN-SAKIB
 | Name | Email |
 | ----- | ------ |
 | Farhan Sakib | sakib.cse6.bu@gmail.com |
+| E.H. Farhan Sakib | e.h.farhan.sakib@gmail.com |
